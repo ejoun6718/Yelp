@@ -47,7 +47,7 @@
                                                     </constraints>
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="1. Grand Pu Bah" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dif-6k-skI">
-                                                    <rect key="frame" x="81" y="8" width="122" height="20"/>
+                                                    <rect key="frame" x="81" y="8" width="216" height="20"/>
                                                     <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -92,7 +92,7 @@
                                                 <constraint firstItem="Wjm-9v-NRY" firstAttribute="leading" secondItem="SuE-15-CVZ" secondAttribute="trailing" constant="5" id="DLU-Xf-r8J"/>
                                                 <constraint firstItem="Dif-6k-skI" firstAttribute="leading" secondItem="zsQ-IB-8OE" secondAttribute="trailing" constant="8" id="Dtm-dr-muH"/>
                                                 <constraint firstAttribute="trailing" secondItem="Ily-pB-VeD" secondAttribute="trailing" constant="8" id="E01-M1-gUJ"/>
-                                                <constraint firstItem="HBc-XZ-VeD" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Dif-6k-skI" secondAttribute="trailing" constant="8" id="Q5a-Le-kgh"/>
+                                                <constraint firstItem="HBc-XZ-VeD" firstAttribute="leading" secondItem="Dif-6k-skI" secondAttribute="trailing" constant="8" id="Q5a-Le-kgh"/>
                                                 <constraint firstItem="Ily-pB-VeD" firstAttribute="top" secondItem="Wjm-9v-NRY" secondAttribute="bottom" constant="8" id="be9-5O-vfr"/>
                                                 <constraint firstItem="SuE-15-CVZ" firstAttribute="leading" secondItem="zsQ-IB-8OE" secondAttribute="trailing" constant="8" id="bem-3E-3i1"/>
                                                 <constraint firstItem="zsQ-IB-8OE" firstAttribute="top" secondItem="V9r-gj-nqM" secondAttribute="top" constant="8" id="bf1-Wk-FO0"/>
@@ -152,7 +152,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0Kk-sF-QMV" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1787.2" y="357.12143928035982"/>
+            <point key="canvasLocation" x="1412" y="358"/>
         </scene>
     </scenes>
 </document>
